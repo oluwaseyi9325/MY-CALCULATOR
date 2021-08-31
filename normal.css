@@ -1,0 +1,41 @@
+
+.clear{
+    
+    border: solid white !important;
+    border-radius: 10px !important;
+    font-weight: bolder !important;
+}
+
+.btbt{
+    background-color: grey !important;
+    border: solid white !important;
+    border-radius: 10px !important;
+    font-weight: bolder !important;
+    
+}
+.btbt:hover{
+    background-color:lightgrey !important;
+    color: black !important;
+}
+.all-card{
+    margin: auto !important;
+     background-color: grey !important;
+     border-radius: 30px;
+     width: 260px;
+     border: 6px solid black !important;
+     text-align: center;
+     
+}
+.sign{
+    background-color: black !important;
+}
+.type{
+    background-color: white !important;
+    border:10px solid white !important;
+    width: 100% !important;
+    border-radius: 10px;
+    width: 95% !important;
+    height: 70px !important;
+    
+    
+}
